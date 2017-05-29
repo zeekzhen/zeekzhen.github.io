@@ -1,0 +1,36 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Zhenyu Li
+
+~~~
+{}{img_left}{head.jpg}{alt text}{117px}{155px}{IMGLINKTARGET}
+[http://zeekzhen.com/ Zhenyu Li] ([me@zeekzhen.com])
+
+B.Eng.,Electrical Engineering,[http://www.hdu.edu.cn/ Hangzhou Dianzi University],September 2011
+
+M.S.,Theoretical physics,[http://www.zju.edu.cn/ Zhejiang University],September 2015
+~~~
+
+
+
+
+I am a master student at [http://www.zju.edu.cn/ Zhejiang University],Hangzhou,China.~My current major is [http://physics.zju.edu.cn/ theoretical physics].
+
+I have a wide range of research field,~including Electrical Engineering, 3D printing, Machine learning and Theoretical physics.~I was engaged in electrical engineering research during my undergraduate period, now I have been working on quantum information science and application of machine learning in condensed matter physics under the supervision of [http://zimp.zju.edu.cn/~xinwan/ Prof.Xin Wan] since September 2015.
+
+
+
+== Projects in Electrical Engineering(EE):
+- Voice/Gesture controlled 3d printed robotic arm.
+- Charging system for fire emergency lamp.
+- Portable X ray machine.
+- 30KV DC high voltage power supply.
+- Music arc.
+- 3d printed Leaning Tower of Pisa effects speakers with colorful lights.
+
+== Research on Physics:
+- Matrix-product states(MPS) and Infinite Time Evolving Block Decimation(iTEBD) In the spin system.
+- Machine learning with Restricted Boltzmann Machines(RBM) in the spin system.
+- Monte Carlo method in statistical physics.
+- Machine learning with Convolutional Neural Network(CNN) in the disordered system.
+
+
